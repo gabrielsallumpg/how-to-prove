@@ -459,6 +459,12 @@ Exercise 11
     => P ∧ ((¬Q ∨ P) ∧ (¬Q ∨ Q)) [Absorption law & Distributive law]
     => P ∧ (¬Q ∨ P)
     => P [Absorption law]
+    
+    or
+    
+    (P ∧ Q) ∨ (P ∧ ¬Q)
+    => P ∧ (Q ∨ ¬Q) [Distributive law]
+    => P [Tautology law]
 
 (c)
 
